@@ -33,6 +33,6 @@
  </br>
 </br>
  
-  ![Snake animation](https://github.com/shivantika04/shivantika04/blob/output/github-contribution-grid-snake.svg)
+  ![Snake animation](https://raw.githubusercontent.com/shivantika04/shivantika04/output/github-contribution-grid-snake-dark.svg)
  
 </div>
