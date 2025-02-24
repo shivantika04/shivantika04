@@ -28,8 +28,9 @@
 
 ## Profiles 
 <div> 
-  <a href="https://www.linkedin.com/in/shivantikatripathi423" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
- <a href="https://leetcode.com/u/snoozerloser/" target="_blank"><img src="https://img.shields.io/badge/LeetCode-%23FFA116?style=for-the-badge"></a> 
+  <a href="https://www.linkedin.com/in/shivantikatripathi423" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white"></a> 
+ <a href="https://leetcode.com/u/snoozerloser/" target="_blank"><img src="https://img.shields.io/badge/-LeetCode-%23FFA116?style=for-the-badge&logo=LeetCode&logoColor=white"></a> 
+  <a href="https://www.geeksforgeeks.org/user/shandilyashiqz8j/" target="_blank"><img src="https://img.shields.io/badge/-GeeksforGeeks-%2300C853?style=for-the-badge&logo=GeeksforGeeks&logoColor=white"></a> 
   <a href = "mailto: shandilyashivantika0402@gmail.com"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
  </br>
 </br>
