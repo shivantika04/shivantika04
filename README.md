@@ -2,12 +2,6 @@
 #### I am passionate about technology, problem-solving, mathematics, gaming and music! 
 #### Email - shandilyashivantika0402@gmail.com 
 </br>
-
- <div>
-  <a href="https://github.com/shivantika04">
-   <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=shivantika04&layout=compact&langs_count=16&theme=dracula"/>
-  <img align="center" src="https://github-readme-stats.vercel.app/api?username=shivantika04&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
-</div>
  
  ## Skills
 <div style="display: inline_block"><br>
