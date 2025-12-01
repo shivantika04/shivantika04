@@ -1,5 +1,7 @@
 ## Hi, I am Shivantika Tripathi! 
-#### I'm a final year student pursuing my Bachelor's degree in Computer Science and Engineering at Manipal University Jaipur. I am passionate about technology and problem-solving, mathematics, data science and machine learning, cybersecurity, gaming and music! 
+#### I am passionate about technology, problem-solving, mathematics, gaming and music! 
+
+#### Email - shandilyashivantika0402@gmail.com 
 </br>
 
  <div>
