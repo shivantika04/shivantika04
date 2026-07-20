@@ -1,6 +1,6 @@
 ## Hi, I am Shivantika Tripathi! 
 #### I am passionate about technology, problem-solving, mathematics, gaming and music! 
-#### Email - shandilyashivantika0402@gmail.com 
+#### Email - shivantikat@gmail.com 
 </br>
  
  ## Skills
